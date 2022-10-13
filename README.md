@@ -6,9 +6,8 @@ deliver to them.
 ## Preview
 
 
-![dermstore](https://user-images.githubusercontent.com/47365524/195566661-9b10f7b0-a438-40a0-983a-cbeb3e882e6b.png
-
-## Features
+## Fe![dermstore](https://user-images.githubusercontent.com/47365524/195569090-300e4518-4b6e-4580-bee8-639657201c90.png)
+atures
 - Login/signup
 - Searching product in website along with sorting functionality.
 
