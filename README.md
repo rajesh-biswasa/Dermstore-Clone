@@ -10,6 +10,8 @@ deliver to them.
 ## Features
 - Login/signup
 - Searching product in website along with sorting functionality.
+- Add to cart
+- Change quantity in cart page and placed order.
 
 ## 🛠 Skills
 - HTML
